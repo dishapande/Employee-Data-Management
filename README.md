@@ -1,8 +1,6 @@
 # Employee Data Management 
 A full-stack employee management application built using Java Servlets, JSP, JDBC, and MySQL to manage employee records efficiently.
 It provides complete CRUD (Create, Read, Update, Delete) functionality through an interactive UI.
-## Live Demo
-Check out: http://localhost:8082/EmployeeManagementSystem/index.html
 ## Prerequisites
 Before running the project, make sure you have:
 - Java JDK 17 or higher
